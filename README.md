@@ -7,7 +7,7 @@ MongoDB, ExpressJS, ReactJS, NodeJS
 
 ## 🛠️ Abrir e rodar o projeto
 
-### frontend
+## frontend
 #### yarn install
 #### yarn start
 
